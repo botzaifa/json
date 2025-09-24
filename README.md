@@ -7,7 +7,7 @@ A simple and elegant web app to beautify (pretty-print) your JSON files or raw i
 
 ## App Live At:
 
- **[json.streamlit.app](https://json.streamlit.app)**  
+ **[json.streamlit.app](https://json-beautify.streamlit.app/))**  
  
  No installation needed, just open and start beautifying your JSON!
 
